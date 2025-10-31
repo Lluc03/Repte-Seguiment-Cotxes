@@ -87,8 +87,8 @@ Afegeix una capa de robustesa al tracker.
 |-----------|---------------|---------------------|
 | Short | ↑6 / ↓2 | ↑6 / ↓2 |
 | Middle | ↑5 / ↓7 | ↑5 / ↓7 |
-| Shadow | ↑3 / ↓10 | ↑4 / ↓11 |
-| Long 1 | ↑8 / ↓24 | ↑10 / ↓29 |
+| Shadow | ↑3 / ↓10 | ↑3 / ↓10 |
+| Long 1 | ↑8 / ↓24 | ↑10 / ↓26 |
 
 **Total vehicles (Short):**  
 - **Real:** 74  

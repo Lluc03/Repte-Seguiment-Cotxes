@@ -1,5 +1,0 @@
-1. Tracker només amb max_disapeared (problema, molts id's)
-2. Tracker amb max_disappeared i max_distance (problema, molts id's)
-3. Amb direcció
-4. Sense poder canviar de direcció. Si detecta que va de est a oest no pot canviar
-5. Histograma

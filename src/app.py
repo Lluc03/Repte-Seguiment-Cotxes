@@ -80,6 +80,6 @@ def run_app(video_source):
             break
 
     total_detected = tracker.nextObjectID
-    writer.write_final_counts(counts, total_detected)
+    # writer.write_final_counts(counts, total_detected)
     reader.release()
     cv2.destroyAllWindows()

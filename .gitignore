@@ -1,0 +1,81 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Archivos de configuración de entorno
+*.env
+*.ini
+*.cfg
+
+# =========================
+# IDEs y editores
+# =========================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# =========================
+# Archivos temporales / logs
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# =========================
+# Datos y modelos
+# =========================
+data/
+datasets/
+output/
+outputs/
+results/
+checkpoints/
+models/
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.csv
+*.mp4
+*.avi
+
+# =========================
+# Notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb~
+
+# =========================
+# Compilaciones / Cython
+# =========================
+build/
+dist/
+*.egg-info/
+*.so
+*.c
+*.cpp
+
+# =========================
+# Otros
+# =========================
+.DS_Store
+*.bak
+*.tmp
+*.log
